@@ -14,6 +14,7 @@ package com.docraptor;
 
 import com.fasterxml.jackson.databind.util.StdDateFormat;
 
+import java.io.Serial;
 import java.text.DateFormat;
 import java.text.FieldPosition;
 import java.text.ParsePosition;
